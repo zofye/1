@@ -1,0 +1,8 @@
+w=eval(input("请输入第一个数字: "))
+x=eval(input("请输入第二个数字: "))
+y=eval(input("请输入第三个数字: "))
+z=eval(input("请输入第四个数字: "))
+list[w,x,y,z]
+list1=sorted(list)
+list1.reverse()
+print(list1)
